@@ -3,34 +3,6 @@
 Hello there :wave:
 I hope this project finds you well!
 
-In this project, I will train different models with varying hyperparameters to predict the number of taxi orders for the next hour. I will perform data resampling on an hourly basis.
-
-
-**Objective**
-
-Find out the best model with RMSE value under 48.
-
-**Used Model**
-1. Linear Regression Model
-2. Decision Tree Regressor Model
-3. Random Forest Regressor Model
-
-# Steps
-
-1. Data Overview
-2. Data preprocessing
-3. Model Training and Evaluation
-4. Testing the Model on Test Set
-
-## 1. Data Overview
-
-
-
-# Project Description
-
-Hello there :wave:
-I hope this project finds you well!
-
 I will train multiple models that can classify both positive and negative reviews and automatically detect negative reviews. Additionally, I will use accuracy score, F1 score, and AUC ROC as evaluation metrics for the models. In the process, I will perform natural language processing using several libraries to compare the evaluation results of the models.
 
 
